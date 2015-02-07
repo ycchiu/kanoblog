@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+# !/djangogirls/myvenv/bin python3
+
 import os
 import sys
 
